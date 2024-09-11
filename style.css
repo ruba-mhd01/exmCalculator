@@ -1,0 +1,34 @@
+h2{
+    color: aliceblue;
+}
+table{
+    border:solid ;
+    height: 70px;
+    background-color:rgb(109, 144, 185);
+    width: 30px;
+}
+#inp{
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 40px;
+}
+button{
+    background-color: rgb(218, 222, 225);
+    padding: 10px;
+    width: 70px;
+    border-radius: 5px;
+   margin-left:16px;
+   margin-right:16px;
+   margin-bottom: 10px;
+   
+}
+
+td{
+    padding: 3px;
+}
+
+input{
+    border: 3px solid;
+    width: 100%;
+    padding: 10px;
+}
